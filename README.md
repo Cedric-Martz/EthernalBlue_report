@@ -21,7 +21,3 @@ If you want to learn more about EthernalBlue, you can check these resources:
 [Youtube - The TWS Channel](https://youtu.be/PKHH_gvJ_hA?si=zbpC7VvHbXu2pRr-)
 
 [Youtube - Micode](https://youtu.be/nIRDzPnJAro?si=I1NJsHUotSEurbWo)
-
-
-> Cédric
-> 

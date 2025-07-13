@@ -22,4 +22,5 @@ If you want to learn more about EthernalBlue, you can check these resources:
 
 [Youtube - Micode](https://youtu.be/nIRDzPnJAro?si=I1NJsHUotSEurbWo)
 
-Cédric
+
+- Cédric -
